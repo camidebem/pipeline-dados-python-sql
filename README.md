@@ -1,4 +1,4 @@
-# 🏗️ Pipeline de Dados - Análise Nutricional
+# Pipeline de Dados - Análise Nutricional
 📊 **Projeto de Engenharia de Dados** para extrair, transformar e carregar dados nutricionais em um banco de dados PostgreSQL.
 
 ## 📌 Sobre o Projeto
